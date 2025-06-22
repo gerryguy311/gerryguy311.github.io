@@ -1,4 +1,8 @@
-Breaking Into Cybersecurity Without Experience
+---
+layout: post
+title: Breaking Into Cybersecurity Without Experience
+---
+
 Breaking into cybersecurity without experience has never been more achievable than it is right now. There has never been a better time than now to start your journey into cybersecurity. It's projected that there will be over 3.5 million unfilled jobs by the year 2025, with massive opportunities for growth. But one of the problems that catches people right off the rip is the Catch-22 issue of needing experience to get the job, but not being able to get the job to get the experience.
 
 
